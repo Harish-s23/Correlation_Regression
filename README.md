@@ -1,3 +1,7 @@
+Developed by: HARESH R
+
+Register number: 212224040097
+
 # Correlation and regression for data analysis
 # Aim : 
 
